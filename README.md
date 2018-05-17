@@ -1,0 +1,2 @@
+# phpmd
+PHP mess detector
